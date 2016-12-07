@@ -1,0 +1,13 @@
+body {
+	text-align: center;
+	font-family: 'Lato', serif;
+	background-color: #f9f9f9;
+}
+
+h1 {
+	font-weight: 700;
+}
+
+p {
+	font-weight: 400;
+}
