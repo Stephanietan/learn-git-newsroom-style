@@ -1,0 +1,4 @@
+#Today's Weather!
+*Morning will be raining.
+*Noon will be extremyly hot
+*Evening may or may not rain.
